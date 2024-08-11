@@ -24,7 +24,7 @@ Data Structures and Algorithms are fundamental to computer science and are cruci
 2. **Clone Your Fork**: Clone your forked repository to your local machine using:
 
    ```bash
-   git clonehttps://github.com/mrahmadhassankhan/DSA-PREPERATION/tree/main
+   git clone https://github.com/mrahmadhassankhan/DSA-PREPERATION/tree/main
    ```
 
 3. **Create a Branch**: Create a new branch for your changes:
