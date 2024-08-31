@@ -7,7 +7,7 @@ def print_even_numbers_100():
         number += 1
 
 print_even_numbers_100()
-
+# This algo has a time complexity of O(N)
 
 #The Below one is better than above  takes  only 50 iterations by incrementing the number by 2 each time.
 def print_even_numbers_50():
@@ -17,3 +17,4 @@ def print_even_numbers_50():
         number += 2
 
 print_even_numbers_50()
+# This algo has a time complexity of O(N/2)
